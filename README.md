@@ -1,4 +1,5 @@
-# twitter-sentimental-analysis
+# Twitter-Sentimental-Analysis
+A project from Analytical Vidhya
 A Machine learning project related to twitter sentimental analysis
 
 Tables of Content:
