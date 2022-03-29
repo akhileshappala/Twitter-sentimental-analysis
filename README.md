@@ -2,6 +2,7 @@
 A project from Analytical Vidhya
 A Machine learning project related to twitter sentimental analysis with real data sets
 
+Below are the steps which are being executed in a sequence manner
 Tables of Content:
 
   - Tweets Preprocessing and Cleaning  
